@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,100 --> 00:00:05,400 
-[Engine Sound]
+[Engine sound]
 
 2
 00:00:12,167 --> 00:00:12,834
@@ -14,11 +14,11 @@ I don't know. It doesn't work. I don't know what to do.
 
 5
 00:00:35,190 --> 00:00:37,090 
-[Start-up]
+[Engine starting]
 
 6
 00:00:39,500 --> 00:00:41,800 
-[Start-up]
+[Engine starting]
 
 7
 00:00:51,143 --> 00:00:52,143
@@ -30,8 +30,8 @@ Full. I filled it yesterday.
 
 9
 00:00:58,667 --> 00:01:00,500 
-It's as if something were missing.
-- Yes?
+- Something's missing.
+- Really?
 
 10
 00:01:01,363 --> 00:01:02,830
@@ -39,8 +39,7 @@ I've got no idea how this works.
 
 11
 00:01:03,000 --> 00:01:04,633
-Me neither. If it were a machine, 
-I'd know.
+Me neither. If it were a bike, I'd know.
 
 12
 00:01:05,900 --> 00:01:07,433
@@ -74,7 +73,7 @@ Well, if you insist ...
 
 19
 00:01:24,013 --> 00:01:25,846
-If won't bother,
+If it's not too much trouble,
 mind giving me some water?
 
 20
@@ -130,7 +129,7 @@ Are you still buying this story?
 
 33
 00:02:07,990 --> 00:02:08,790
-"Buying" this story?
+"Buying" it?
 
 34
 00:02:09,077 --> 00:02:12,043
@@ -140,15 +139,15 @@ He's got a bull's heart.
 35
 00:02:12,420 --> 00:02:14,505
 The doctors have even said
-"he can compete in the Olympics".
+he could "compete in the Olympics".
 
 00:02:15,340 --> 00:02:17,440
 - And all that was for...
-- I wanted to come for you.
+- I came for you.
 
 37
 00:02:18,533 --> 00:02:20,400
-I was looking for an excuse to see you again.
+I wanted an excuse to see you again.
 
 38
 00:02:20,500 --> 00:02:22,900 
@@ -175,7 +174,7 @@ What about Vicky?
 
 44
 00:02:32,390 --> 00:02:34,457
-What Vicky? The past's in the past. Come.
+What Vicky? That's the past. Come.
 
 45
 00:02:35,543 --> 00:02:36,590
@@ -190,7 +189,7 @@ the whole package, body included?
 
 48
 00:02:43,270 --> 00:02:44,563
-What's wrong;
+What's wrong?
 
 49
 00:02:46,890 --> 00:02:47,937 
@@ -207,7 +206,7 @@ Niko, what's going on?
 
 52
 00:02:53,500 --> 00:02:55,484
-I wanted to thank you all
+I wanted to thank you for all
 you've been doing.
 
 53
@@ -224,7 +223,7 @@ A friend.
 
 56
 00:03:02,513 --> 00:03:04,813
-Yes, like a male friend, close to my heart.
+Yes, like a close bro.
 
 57
 00:03:05,523 --> 00:03:07,457
@@ -236,7 +235,7 @@ No, I thank you.
 
 59
 00:03:11,833 --> 00:03:13,833
-Λίγο πιο κάτω απ' την διασταύρωση.
+Just below the intersection.
 
 60 00: 03: 14,403 -> 00: 03: 15,466 At what time?
 
@@ -246,11 +245,11 @@ Thank you.
 
 62
 00:03:17,400 --> 00:03:19,300
-Milk-free, sugar-free.
+Okay, they'll come get it.
 
 62
 00:03:17,400 --> 00:03:19,300
-Milk-free, sugar-free.
+Okay, they'll come get it.
 - Thank you very much. That's how I drink it.
 
 64
@@ -273,7 +272,7 @@ Yeah, that is a big issue.
 68
 00:03:36,650 --> 00:03:40,150
 - You can't ride a mini with big hair.
-- No. I also avoid minis.
+- Yeah. I avoid them too.
 
 69
 00:03:42,900 --> 00:03:44,567
@@ -281,7 +280,7 @@ I have a feeling we know each other.
 
 70
 00:03:45,523 --> 00:03:48,333
-Yes, it is a terrible coincidence.
+Yes, it is an amazing coincidence.
 I know Nikos from Australia.
 
 71
@@ -316,7 +315,7 @@ Meh. Probably because of Vicky.
 78
 00:04:04,450 --> 00:04:07,583
 Really?
-I had heart they broke up.
+I've heard they broke up.
 
 79
 00:04:09,257 --> 00:04:10,857
@@ -331,7 +330,7 @@ I don't meddle in their issues.
 
 82
 00:04:16,333 --> 00:04:17,800
-Or so I've heard from the little I know him.
+From what I've heard.
 
 83
 00:04:18,573 --> 00:04:19,973
@@ -360,7 +359,7 @@ I've got to leave, they're coming.
 
 89
 00:04:36,167 --> 00:04:37,334
-Wow, for how long have we been talking?
+Wow, time flew while we talked!
 
 90
 00:04:39,140 --> 00:04:39,940
@@ -386,7 +385,7 @@ It is so quiet here.
 95
 00:04:54,680 --> 00:04:57,613
 Aren't you happy?
-That helps you calm your head.
+It's good for your head.
 
 96
 00:04:58,990 --> 00:05:02,723
@@ -394,7 +393,7 @@ That helps you calm your head.
 
 97
 00:05:04,500 --> 00:05:05,500
-How may I help you?
+Hello?
 
 98
 00:05:05,750 --> 00:05:08,217
@@ -407,7 +406,7 @@ I'll put your father you the line.
 
 100
 00:05:10,030 --> 00:05:12,143
-You've got a mom!
+There's a mom here too!
 You haven't been talking to her...
 
 101
@@ -488,7 +487,7 @@ Who's Stelly?
 119
 00:05:52,243 --> 00:05:54,677
 Come on, paps.
-Which "Stelly"? What nonsense is that?
+"Who's Stelly?" What nonsense is that?
 
 120
 00:05:55,277 --> 00:05:58,243
@@ -665,7 +664,7 @@ They know what they're doing.
 
 160
 00:07:51,900 --> 00:07:52,993
-[Στέλλα] We'll come back to see you.
+[Stella] We'll come back to see you.
 
 161
 00:07:53,323 --> 00:07:55,523
@@ -681,7 +680,7 @@ We were not fated to meet today.
 
 164
 00:08:00,534 --> 00:08:02,167
-Get up and help me, will you.
+Get up and help me, will you?
 
 165
 00:08:02,500 --> 00:08:03,095
@@ -701,11 +700,11 @@ Health above all, my boy!
 
 169
 00:08:15,367 --> 00:08:17,367
-You young people sometimes forget that,
+You young people sometimes forget that.
 
 170
 00:08:17,577 --> 00:08:18,777
-which is the only thing that matters.
+That's the only thing that matters.
 
 171
 00:08:18,875 --> 00:08:20,375
@@ -714,7 +713,7 @@ Please, Mr. Andrea.
 172
 00:08:20,608 --> 00:08:22,808
 You have no idea of the sacrifices
-I make for this health.
+I make for her health.
 
 173
 00:08:23,136 --> 00:08:24,336
@@ -784,15 +783,15 @@ serving lunch.
 
 188
 00:09:13,033 --> 00:09:14,633
-Do you always talk like that?
+Are you always that talkative?
 
 189
 00:09:16,143 --> 00:09:17,977
-I'm generally not very talkative.
+I'm not a big fan of conversations.
 
 190
 00:09:18,517 --> 00:09:20,750
-- I like to be the silent type.
+- I prefer being the silent type.
 - I see.
 
 191
@@ -1250,7 +1249,7 @@ Yes. Ήταν πλούσια και μεταξένια.
 297
 00:15:30,100 --> 00:15:32,167
 - Αυτός ο άλλος...
-- Yes?
+- Really?
 
 298
 00:15:32,600 --> 00:15:34,333
